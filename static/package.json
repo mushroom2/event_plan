@@ -16,7 +16,7 @@
   "author": "Andrii Viityk",
   "license": "MIT",
   "devDependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
@@ -37,7 +37,7 @@
     ]
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "react-facebook-login": "^4.1.1",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
